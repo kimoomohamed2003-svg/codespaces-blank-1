@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "name": "Ahmed Ali",
+    "email": "ahmed.ali@example.com",
+    "age": 20
+  },
+  {
+    "id": 2,
+    "name": "Mona Hassan",
+    "email": "mona.hassan@example.com",
+    "age": 22
+  },
+  {
+    "id": 3,
+    "name": "Omar Khaled",
+    "email": "omar.khaled@example.com",
+    "age": 21
+  },
+  {
+    "id": 4,
+    "name": "Sara Youssef",
+    "email": "sara.youssef@example.com",
+    "age": 20
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
